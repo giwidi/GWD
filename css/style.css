@@ -8,16 +8,6 @@ body{
   background-color:#000000;
 }
 
-.button_1{
-  height:38xp;
-  background:#e8491d;
-  padding:11px;
-  border:0;
-  padding-left: 20px;
-  padding-right: 20px;
-  color:#ffffff;
-}
-
 /* Global */
 .container{
   width:80%
